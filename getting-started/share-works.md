@@ -12,6 +12,6 @@ After clicking the link to enter, you can see all the information of the work.
 
 Poster sharing: After clicking on the poster to share, a shared poster will be generated, and the poster can be shared with others in any way, as shown in the figure below
 
-![](../.gitbook/assets/image.gif)
+![](../.gitbook/assets/postttt.gif)
 
 After scanning the QR code on the poster to enter, you can see all the information of the work.
