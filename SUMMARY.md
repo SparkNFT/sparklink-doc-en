@@ -13,3 +13,7 @@
 * [Share works](getting-started/share-works.md)
 * [Download](getting-started/download.md)
 * [Purchase NFT content](getting-started/purchase-nft-content.md)
+
+***
+
+* [WhitePaper](whitepaper.md)

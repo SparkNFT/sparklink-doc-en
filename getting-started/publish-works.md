@@ -6,7 +6,7 @@ Using SparkLink to create and publish works is very simple!
 
 Visit the SparkLink platform and click on the "Connect Wallet" link in the upper right corner of the meta mask wallet.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 **Start authoring and publishing**
 
