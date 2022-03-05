@@ -28,7 +28,7 @@ Decentralisation: SparkLink's product logic is executed by the blockchain. When 
 
 DID: DID is Decentralized Identity. The W3C's DID specification is a widely accepted standard that ensures identity systems can interoperate across different networks and platforms. The DID architecture is outlined in the diagram below：
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (3).png>)
 
 A DID is an address on the Internet that one can own and control directly. It can be used to find associated DID documents, which contain information associated with the DID. a DID document contains relevant information to enable use cases such as login, data encryption, communication etc. Cryptographic proofs, such as digital signatures, allow entities to prove control over these identifiers.&#x20;
 
