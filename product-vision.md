@@ -1,6 +1,6 @@
 # Product vision
 
-SparkLink is a decentralized NFT content creation, sharing and trading platform based on web3.0 concepts, which is a new and revolutionary product.
+SparkLink is a decentralized NFT content publishing, distribution and revenue protocol based on web3.0 concepts, which is a new and revolutionary product.
 
 We transformed the application from a closed-code, enterprise-owned platform to an open source decentralized platform. The user owns the data. Everyone is not only a user, but also the owner of the platform. Your digital assets will not be handed over to SparkLink for escrow, but stored on the blockchain address of your own digital wallet. This is just a unique and interesting place to create, sell, and share content. You can share any content you want to be shared in the form of NFT.
 
