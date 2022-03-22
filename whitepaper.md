@@ -12,7 +12,7 @@ A success of a book, only possible with the talent of a writer, is only made pos
 
 
 
-&#x20;**Solutions——All you need is to press the share button**&#x20;
+**Solutions——All you need is to press the share button**&#x20;
 
 SparkLink will break through the centralized monopoly of content distribution by offering users a new, open source way of distributing and distributing NFT, through which anyone can become a creator and a sharer. In a decentralised world, creators are no longer restricted from creating content, everything is possible and anyone can interact with every user face to face. SparkLink makes it possible for every share to be a direct or indirect supporter of the creator, for every share to be a direct financial contribution to the creator, and for every share to be a part of the share to be a benefit to both the creator and the shareholder.&#x20;
 
@@ -28,7 +28,7 @@ Decentralisation: SparkLink's product logic is executed by the blockchain. When 
 
 DID: DID is Decentralized Identity. The W3C's DID specification is a widely accepted standard that ensures identity systems can interoperate across different networks and platforms. The DID architecture is outlined in the diagram below：
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 A DID is an address on the Internet that one can own and control directly. It can be used to find associated DID documents, which contain information associated with the DID. a DID document contains relevant information to enable use cases such as login, data encryption, communication etc. Cryptographic proofs, such as digital signatures, allow entities to prove control over these identifiers.&#x20;
 
@@ -38,7 +38,7 @@ Secondary Creation: When a creator chooses to allow secondary creation of their 
 
 Community Governance: SparkLink encourages users to use any ERC-20, BEP-20, Polygon network standard pass-through token as a credential for settling revenue and paying fees for the work system. Users will form a decentralised governance organisation based on such tokens based on passwords.&#x20;
 
-****
+![](<.gitbook/assets/image (3).png>)
 
 **Technology**
 
@@ -53,6 +53,8 @@ Decentralised storage: SparkLink uses IPFS (InterPlanetary File System) as its s
 **Architecture**&#x20;
 
 SparkLink is a unique decentralised NFT content creation and sharing platform, based on the web 3.0 concept. Everyone can create their own NFT work on SparkLink and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, SparkLink published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.&#x20;
+
+![Publish-distribution logic](<.gitbook/assets/image (4).png>)
 
 Over the past decade, we have lived in a period where ownership was concentrated in the hands of a few centralised technology platforms that owned the data, end-user relationships and the way content was distributed and monetised. While user-generated content creation has exploded during this time, it has also led to dependence on a few new gatekeepers, widespread burnout and economic unsustainability for the vast majority of creators. Therefore, we have created a tree sharer economy on SparkLink decentralised platform that allows everyone to easily share their work through NFT, while generating a split tree economy to generate positive financial rewards for all creators and sharers, with all rights returned to users, where you can easily share your favourite content and earn economic profit. We believe that the technology based on web3 will bring incredible opportunities for everyone who contributes and creates on the internet, ultimately creating the true golden age of content and sharing that we have been waiting for.
 
