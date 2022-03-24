@@ -2,7 +2,11 @@
 
 egarding how to share, take the following works as an example:
 
-Sharing methods can be divided into link sharing and poster sharing
+Sharing methods can be divided into link sharing and poster sharing\
+\
+
+
+![](<../.gitbook/assets/image (7).png>)
 
 Link sharing: After clicking the link to share, generate and copy the sharing link to the pasteboard, click on the link to enter and view your work information
 
