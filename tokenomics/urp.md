@@ -1,12 +1,12 @@
 ---
-description: User Reward Point(URP)
+description: User Reward Point(URP) for social
 ---
 
 # URP
 
 ### **Supply and Earning**
 
-Total supply：unlimited
+Total supply：Unlimited
 
 User reward point(URP) has an unlimited supply and is earned when a user using SparkLink protocol
 
@@ -14,19 +14,19 @@ User reward point(URP) has an unlimited supply and is earned when a user using S
 
 ### URP Using Mechanics
 
-1.User reward
+1.User motivation
 
 2.Tips and likes
 
-&#x20;3.Hot vote
+3.Hot vote
 
-&#x20;4.Exchange for equity tokens
+4.Exchange for equity tokens
 
-&#x20;5.Exchange limited NFTs
+5.Exchange limited NFTs
 
-&#x20;6.DIY poster or pendant
+6.DIY poster or pendant
 
-&#x20;7.Unlocking Hidden content
+7.Unlocking Hidden content
 
 More coming soon...
 
@@ -34,7 +34,7 @@ More coming soon...
 
 ### Incentive Rules&#x20;
 
-User to earn
+Social to earn
 
 #### Behavior Layer&#x20;
 
@@ -47,9 +47,9 @@ For  publisher/distributor：
 | Stage 2 | Click Publish button on the publication page                                 | +80   |
 | Stage 3 | Complete the publish                                                         | +200  |
 | Stage 4 | Generate the share link for the first time                                   | +100  |
-| Stage 5 | Generate the poster for the first time                                       |       |
-| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +5    |
-| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +10   |
+| Stage 5 | Generate the poster for the first time                                       | +100  |
+| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +10   |
+| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +20   |
 | Stage 8 | Complete token pledge for the first time                                     | +5000 |
 
 For new one(By sharing)：
@@ -60,9 +60,9 @@ For new one(By sharing)：
 | Stage 2 | Click Publish button on the publication page                                 | +80   |
 | Stage 3 | Complete the publish                                                         | +200  |
 | Stage 4 | Generate the share link for the first time                                   | +100  |
-| Stage 5 | Generate the poster for the first time                                       |       |
-| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +5    |
-| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +10   |
+| Stage 5 | Generate the poster for the first time                                       | +100  |
+| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +10   |
+| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +20   |
 | Stage 8 | Complete token pledge for the first time                                     | +5000 |
 
 
@@ -78,8 +78,6 @@ No rewards for $URP, $SPL are awarded in proportion to the price for each transa
 ### URP Burning Mechanics (Destroying)
 
 The URP is burned by:
-
-
 
 1.Tips and likes
 

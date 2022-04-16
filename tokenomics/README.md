@@ -4,7 +4,7 @@ SparkLink protocol is launching two tokens as the foundations of the tokenmics.
 
 ### Definition
 
-User Reward Point(URP)
+Protocol Social Token:URP (User Reward Point)
 
-SparkLink Token(SPL)
+Governance Token: SPL (SparkLink)
 
