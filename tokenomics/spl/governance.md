@@ -4,7 +4,7 @@
 
 The 3% Trading revenue is reserved to the team to sustain its operation, more than 1% of the trading fee will be given back to the SparkLink token ecosystem.
 
-Note：More than 1% trading fees collected by the protocol are distributed to stakers as rewards(ETH). Reward rates are adjusted roughly every 24 hours, based on the past 24 hours’ trading activity.
+Note：More than 1% trading fees collected by the protocol are distributed to stakers as rewards($ETH). Reward rates are adjusted roughly every 24 hours, based on the past 24 hours’ trading activity.
 
 
 
