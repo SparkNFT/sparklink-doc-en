@@ -36,36 +36,37 @@ More coming soon...
 
 Social to earn
 
-#### Behavior Layer&#x20;
+#### Action Layer&#x20;
 
 For  publisher/distributor：
 
 
 
-| Stage 1 | Click publish button on the home page for the first time                     | +50   |
-| ------- | ---------------------------------------------------------------------------- | ----- |
-| Stage 2 | Click Publish button on the publication page                                 | +80   |
-| Stage 3 | Complete the publish                                                         | +200  |
-| Stage 4 | Generate the share link for the first time                                   | +100  |
-| Stage 5 | Generate the poster for the first time                                       | +100  |
-| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +10   |
-| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +20   |
-| Stage 8 | Complete token pledge for the first time                                     | +5000 |
+| Stage   | Action                                                                               | Award point |
+| ------- | ------------------------------------------------------------------------------------ | ----------- |
+| Stage 1 | Click publish button on the home page for the first time                             | +50         |
+| Stage 2 | Click Publish button on the publication page                                         | +80         |
+| Stage 3 | Confirm publish                                                                      | +200        |
+| Stage 4 | Generate the share link for the first time                                           | +100        |
+| Stage 5 | Generate the poster for the first time                                               | +100        |
+| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p><p> </p> | +10         |
+| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p><p> </p>        | +20         |
+| Stage 8 | Complete token pledge for the first time                                             | +5000       |
 
+\
 For new one(By sharing)：
 
-| Stage 0 | The newcomer clicks the share stuffs to complete the wallet connection       | +100  |
-| ------- | ---------------------------------------------------------------------------- | ----- |
-| Stage 1 | Click publish button on the home page for the first time                     | +50   |
-| Stage 2 | Click Publish button on the publication page                                 | +80   |
-| Stage 3 | Complete the publish                                                         | +200  |
-| Stage 4 | Generate the share link for the first time                                   | +100  |
-| Stage 5 | Generate the poster for the first time                                       | +100  |
-| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p> | +10   |
-| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p>        | +20   |
-| Stage 8 | Complete token pledge for the first time                                     | +5000 |
-
-
+| Stage   | Action                                                                               | Award point |
+| ------- | ------------------------------------------------------------------------------------ | ----------- |
+| Stage 0 | The newcomer clicks the share stuffs to complete the wallet connection               | +100        |
+| Stage 1 | Click publish button on the home page for the first time                             | +50         |
+| Stage 2 | Click Publish button on the publication page                                         | +80         |
+| Stage 3 | Confirm publish                                                                      | +200        |
+| Stage 4 | Generate the share link for the first time                                           | +100        |
+| Stage 5 | Generate the poster for the first time                                               | +100        |
+| Stage 6 | <p>Share links or posters are clicked to view</p><p>(Robot verification)</p><p> </p> | +10         |
+| Stage 7 | <p>Complete a message on message board</p><p>(Robot verification)</p><p> </p>        | +20         |
+| Stage 8 | Complete token pledge for the first time                                             | +5000       |
 
 #### Transaction layer
 
