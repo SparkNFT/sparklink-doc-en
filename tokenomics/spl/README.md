@@ -16,13 +16,11 @@ SPL is equity token and has the following rights
 
 1.Community governance
 
-2.trading fee discount
+2.Dividends
 
-3.Dividends
+3.Right to purchase limited
 
-4.Right to purchase limited
-
-5.Airdrop node&#x20;
+4.Airdrop node&#x20;
 
 
 
