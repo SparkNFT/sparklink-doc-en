@@ -1,22 +1,16 @@
 # Governance
 
-#### Dividends and voting power
+### &#x20;voting power
 
-The 1% Trading revenue is reserved to the team to sustain its operation, 2% of the trading fee will be given back to the SparkLink token ecosystem.
-
-Note：More than 2% trading fees collected by the protocol are distributed to stakers as rewards($ETH/$BNB/$MATIC). Reward rates are adjusted roughly every 24 hours, based on the past 24 hours’ trading activity.
-
-
-
-| Pledge period | Vote Weight | Proportion of dividends         |
-| ------------- | ----------- | ------------------------------- |
-| 0 month       | 0           | Depends on the total proportion |
-| 1 month       | 1           | Depends on the total proportion |
-| 3 months      | 4           | Depends on the total proportion |
-| 6 months      | 8           | Depends on the total proportion |
-| 1 year        | 16          | Depends on the total proportion |
-| 2 years       | 32          | Depends on the total proportion |
-| 3 years       | 64          | Depends on the total proportion |
+| Pledge period | Vote Weight |   |
+| ------------- | ----------- | - |
+| 0 month       | 0           |   |
+| 1 month       | 1           |   |
+| 3 months      | 4           |   |
+| 6 months      | 8           |   |
+| 1 year        | 16          |   |
+| 2 years       | 32          |   |
+| 3 years       | 64          |   |
 
 
 
