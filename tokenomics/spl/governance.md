@@ -2,9 +2,9 @@
 
 #### Dividends and voting power
 
-The 3% Trading revenue is reserved to the team to sustain its operation, more than 1% of the trading fee will be given back to the SparkLink token ecosystem.
+The 1% Trading revenue is reserved to the team to sustain its operation, 2% of the trading fee will be given back to the SparkLink token ecosystem.
 
-Note：More than 1% trading fees collected by the protocol are distributed to stakers as rewards($ETH/$BNB/$MATIC). Reward rates are adjusted roughly every 24 hours, based on the past 24 hours’ trading activity.
+Note：More than 2% trading fees collected by the protocol are distributed to stakers as rewards($ETH/$BNB/$MATIC). Reward rates are adjusted roughly every 24 hours, based on the past 24 hours’ trading activity.
 
 
 
