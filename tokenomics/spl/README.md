@@ -24,6 +24,8 @@ SPL is equity token and has the following rights
 
 
 
+
+
 ### Obtain
 
 1.Buy in exchange
@@ -36,3 +38,12 @@ Note：After each transaction is completed, $SPL tokens will be awarded to the b
 4.Airdrop
 
 &#x20;
+
+### Liquidity balancing mechanism
+
+1.Periodic buyback and destruction
+
+2.The pledge
+
+3.Official exchange activities
+
