@@ -1,6 +1,6 @@
 # WhitePaper
 
-**Foreword**&#x20;
+**FOREWORD**
 
 In January 1996, Bill Gates published an article entitled "Content is King", which became one of the early Internet classics. In that article he described the characteristics of the Internet that laid the foundation for the creator economy. He wrote: "One of the exciting things about the Internet is that anyone with a personal computer and a modem can publish any content they create."&#x20;
 
@@ -12,7 +12,7 @@ A success of a book, only possible with the talent of a writer, is only made pos
 
 
 
-**Solutions——All you need is to press the share button**&#x20;
+**SOLUTIONS**
 
 SparkLink will break through the centralized monopoly of content distribution by offering users a new, open source way of distributing and distributing NFT, through which anyone can become a creator and a sharer. In a decentralised world, creators are no longer restricted from creating content, everything is possible and anyone can interact with every user face to face. SparkLink makes it possible for every share to be a direct or indirect supporter of the creator, for every share to be a direct financial contribution to the creator, and for every share to be a part of the share to be a benefit to both the creator and the shareholder.&#x20;
 
@@ -22,7 +22,7 @@ All of that will become reality just by clicking the "Share" button. ****&#x20;
 
 ****
 
-**Feature**&#x20;
+**FEATURE**
 
 Decentralisation: SparkLink's product logic is executed by the blockchain. When users upload information, generate works and store them, all information about the works and their ownership will be stored directly and permanently on the blockchain, and SparkLink has no right to modify or delete any work content of the platform users.&#x20;
 
@@ -34,13 +34,19 @@ A DID is an address on the Internet that one can own and control directly. It ca
 
 Users’ Rights: When a user purchases a NFT work posted by a creator on SparkLink, they will have the right to sell a certain number of copies of that work and the creator will receive a percentage of the proceeds from the sale and distribution of that work as well as a fixed amount of royalties.&#x20;
 
+Payment to unlock:The NFT content work supports encryption and can be unlocked to check only after paid.
+
 Secondary Creation: When a creator chooses to allow secondary creation of their work, the user will have the right to create a secondary version of that work after purchasing it, but the work can only be sold in the SparkLink ecosystem. Both the original author and the secondary creator will continue to receive a share of the sale proceeds.&#x20;
 
 Community Governance: SparkLink encourages users to use any ERC-20, BEP-20, Polygon network standard pass-through token as a credential for settling revenue and paying fees for the work system. Users will form a decentralised governance organisation based on such tokens based on passwords.&#x20;
 
 ![](<.gitbook/assets/image (3).png>)
 
-**Technology**
+Tokenomics**：**SparkLink Protocol is launching two tokens as the foundations of the tokenmics.
+
+
+
+**TECHNOLOGY**
 
 NFT (Non-Fungible Token): SparkLink enables each user's interest to be tagged by an NFT pass through NFT technology, with ownership protected by the blockchain, where transfers, transactions and receipt of benefits are abstracted as methods to the NFT object, and neither other users nor the SparkLink platform can interfere with the user's own actions.&#x20;
 
@@ -50,11 +56,22 @@ Decentralised storage: SparkLink uses IPFS (InterPlanetary File System) as its s
 
 ****
 
-**Architecture**&#x20;
+#### IMPLEMENTATION LOGIC
 
 SparkLink is a unique decentralised NFT content creation and sharing protocol, based on the web 3.0 concept，everyone can create their own NFT work on SparkLink and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, SparkLink published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.&#x20;
 
 ![Publish-distribution logic](<.gitbook/assets/image (4).png>)
 
+Unique asymmetric encryption and distributed storage make it all possible,decentralization and use of a peer-to-peer network are important elements in order to allow creators to interact directly with their fans.\
+
+
+![](<.gitbook/assets/image (11).png>)
+
+
+
+#### LAST BUT NOT LEAST
+
 Over the past decade, we have lived in a period where ownership was concentrated in the hands of a few centralised technology platforms that owned the data, end-user relationships and the way content was distributed and monetised. While user-generated content creation has exploded during this time, it has also led to dependence on a few new gatekeepers, widespread burnout and economic unsustainability for the vast majority of creators. Therefore, we have created a tree sharer economy on SparkLink decentralised platform that allows everyone to easily share their work through NFT, while generating a split tree economy to generate positive financial rewards for all creators and sharers, with all rights returned to users, where you can easily share your favourite content and earn economic profit. We believe that the technology based on web3 will bring incredible opportunities for everyone who contributes and creates on the internet, ultimately creating the true golden age of content and sharing that we have been waiting for.
+
+[SparkLink.io](https://sparklink.io/#/)
 
