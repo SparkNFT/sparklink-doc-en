@@ -18,6 +18,12 @@ SparkLink will break through the centralized monopoly of content distribution by
 
 SparkLink uses a hierarchical casting model from the NFT root node downwards, where content publishers own the root node of the NFT they publish, and users who purchase the work directly receive a corresponding number of cast sub-nodes, which can continue to be purchased and cast, forming new sub-nodes upon success. In the chain of child nodes that expand outwards from the root node, each node owner will receive a cut of the revenue from all the child nodes cast below their node, while the user who owns the root node will receive a fixed royalty and a cut of the node's revenue from the sale of each lower level node. From the creator to the sharer, everyone involved in the distribution of the work is linked together, and every click of the "share" button will create an interaction with all participants, which will become the common work of the creator and the sharer, eventually making it a huge model of creative sharing economy --Tree structure. SparkLink users are both users and owners of the platform, and all digital assets are stored on the user's wallet blockchain address. The misuse of personal information by centralized platforms will become a thing of the past in SparkLink, and the value of sharing will return to each participant.&#x20;
 
+![](<.gitbook/assets/image (3).png>)
+
+![](<.gitbook/assets/image (2).png>)
+
+Share link: you are welcome to view and try casting my NFT: https://sparklink.io/#/NFT/Spark/425201762305/0x89
+
 All of that will become reality just by clicking the "Share" button. ****&#x20;
 
 ****
@@ -28,7 +34,7 @@ Decentralisation: SparkLink's product logic is executed by the blockchain. When 
 
 DID: DID is Decentralized Identity. The W3C's DID specification is a widely accepted standard that ensures identity systems can interoperate across different networks and platforms. The DID architecture is outlined in the diagram below：
 
-![](<.gitbook/assets/image (3) (1).png>)
+![](<.gitbook/assets/image (3) (1) (1).png>)
 
 A DID is an address on the Internet that one can own and control directly. It can be used to find associated DID documents, which contain information associated with the DID. a DID document contains relevant information to enable use cases such as login, data encryption, communication etc. Cryptographic proofs, such as digital signatures, allow entities to prove control over these identifiers.&#x20;
 
@@ -40,7 +46,7 @@ Secondary Creation: When a creator chooses to allow secondary creation of their 
 
 Community Governance: SparkLink encourages users to use any ERC-20, BEP-20, Polygon network standard pass-through token as a credential for settling revenue and paying fees for the work system. Users will form a decentralised governance organisation based on such tokens based on passwords.&#x20;
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 Tokenomics**：**SparkLink Protocol is launching two tokens as the foundations of the tokenmics.
 
@@ -60,7 +66,7 @@ Decentralised storage: SparkLink uses IPFS (InterPlanetary File System) as its s
 
 SparkLink is a unique decentralised NFT content creation and sharing protocol, based on the web 3.0 concept，everyone can create their own NFT work on SparkLink and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, SparkLink published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.&#x20;
 
-![Publish-distribution logic](<.gitbook/assets/image (4).png>)
+![Publish-distribution logic](<.gitbook/assets/image (4) (1).png>)
 
 Unique asymmetric encryption and distributed storage make it all possible,decentralization and use of a peer-to-peer network are important elements in order to allow creators to interact directly with their fans.\
 
