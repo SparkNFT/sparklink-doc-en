@@ -74,7 +74,7 @@ Social to earn
 
 #### Transaction layer
 
-No rewards for $URP, $SPL are awarded in proportion to the price for each transaction completed.
+No rewards for $URP, [$SPL](spl/) are awarded in proportion to the price for each transaction completed.
 
 
 
