@@ -32,6 +32,28 @@ More coming soon...
 
 
 
+
+
+### URP Burning Mechanics (Destroying)
+
+The URP is burned by:
+
+1.likes
+
+2.Hot vote
+
+3.Exchange for equity tokens
+
+4.Exchange limited NFTs
+
+5.DIY poster or pendant
+
+6.Unlocking Hidden content&#x20;
+
+
+
+
+
 ### Incentive Rules&#x20;
 
 Social to earn
@@ -57,20 +79,4 @@ No rewards for $URP, $SPL are awarded in proportion to the price for each transa
 
 
 
-
-### URP Burning Mechanics (Destroying)
-
-The URP is burned by:
-
-1.Tips and likes
-
-2.Hot vote
-
-3.Exchange for equity tokens
-
-4.Exchange limited NFTs
-
-5.DIY poster or pendant
-
-6.Unlocking Hidden content&#x20;
 
