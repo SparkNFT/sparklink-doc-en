@@ -1,6 +1,6 @@
 # Governance
 
-### &#x20;voting power
+### &#x20;Voting power
 
 | Pledge period | Vote Weight |   |
 | ------------- | ----------- | - |
