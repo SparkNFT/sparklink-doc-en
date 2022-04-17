@@ -47,3 +47,5 @@ Note：After each transaction is completed, $SPL tokens will be awarded to the b
 
 3.Official exchange activities
 
+More coming soon...
+
