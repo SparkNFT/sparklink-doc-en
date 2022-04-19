@@ -48,7 +48,7 @@ Community Governance: SparkLink encourages users to use any ERC-20, BEP-20, Poly
 
 ![](<.gitbook/assets/image (3) (1).png>)
 
-Tokenomics**：**SparkLink Protocol is launching two tokens as the foundations of the tokenmics.
+Tokenomics**：**Coming soon
 
 
 

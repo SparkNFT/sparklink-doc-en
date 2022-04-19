@@ -17,8 +17,3 @@
 ***
 
 * [WhitePaper](whitepaper.md)
-* [Tokenomics](tokenomics/README.md)
-  * [URP](tokenomics/urp.md)
-  * [SPL](tokenomics/spl/README.md)
-    * [Token distribution](tokenomics/spl/token-distribution.md)
-    * [Governance](tokenomics/spl/governance.md)
