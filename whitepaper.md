@@ -66,8 +66,6 @@ Decentralised storage: SparkLink uses IPFS (InterPlanetary File System) as its s
 
 SparkLink is a unique decentralised NFT content creation and sharing protocol, based on the web 3.0 concept，everyone can create their own NFT work on SparkLink and set a fee for the sale and distribution of their work. Any sale and distribution after the NFT has been generated will result in revenue for the work holder or node user. Unlike traditional NFTs, SparkLink published NFTs are not cast by the publisher all at once, but at the time of publication, each publisher will have a root NFT, and new NFT child nodes will be created when the work is purchased by the work's backer or sharer. The NFT from a child node can be re-cast to create the next level of child NFTs.&#x20;
 
-![Publish-distribution logic](<.gitbook/assets/image (4) (1).png>)
-
 Unique asymmetric encryption and distributed storage make it all possible,decentralization and use of a peer-to-peer network are important elements in order to allow creators to interact directly with their fans.\
 
 
