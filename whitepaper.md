@@ -40,6 +40,8 @@ A DID is an address on the Internet that one can own and control directly. It ca
 
 Users’ Rights: When a user purchases a NFT work posted by a creator on SparkLink, they will have the right to sell a certain number of copies of that work and the creator will receive a percentage of the proceeds from the sale and distribution of that work as well as a fixed amount of royalties.&#x20;
 
+![](<.gitbook/assets/Group 364 (2).png>)
+
 Payment to unlock:The NFT content work supports encryption and can be unlocked to check only after paid.
 
 Secondary Creation: When a creator chooses to allow secondary creation of their work, the user will have the right to create a secondary version of that work after purchasing it, but the work can only be sold in the SparkLink ecosystem. Both the original author and the secondary creator will continue to receive a share of the sale proceeds.&#x20;
