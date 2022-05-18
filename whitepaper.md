@@ -20,7 +20,7 @@ SparkLink uses a hierarchical casting model from the NFT root node downwards, wh
 
 ![](<.gitbook/assets/image (3).png>)
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 Share link: you are welcome to view and try casting my NFT: https://sparklink.io/#/NFT/Spark/425201762305/0x89
 

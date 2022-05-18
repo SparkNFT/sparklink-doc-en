@@ -46,10 +46,10 @@ Upload a cover image. Only a single JPEG/JPG/PNG image is supported as the cover
 
 After filling in the information and uploading the cover of the work and uploading the files, click Submit Information to complete the publishing process of your digital collection.
 
-![](<../.gitbook/assets/GIF 2021-11-25 0-19-12.gif>)
+![](<../.gitbook/assets/GIF 2022-5-18 22-35-39.gif>)
 
 When the upload of the file is completed, a prompt of the meta mask wallet will pop up, and the corresponding miner fee will be paid when the transaction is confirmed. Wait patiently for a while, after the transaction is packaged, you will be prompted that your work has been successfully published. You can view the details of the works in my collection.
 
-![](<../.gitbook/assets/image (1).gif>)
+After publishing, click **View** to enter the NFT display interface to confirm the information.
 
-After publishing, click View Details to enter the NFT display interface to confirm the information.
+![](<../.gitbook/assets/image (4).png>)
