@@ -6,13 +6,13 @@ Using SparkLink to create and publish works is very simple!
 
 Visit the SparkLink platform and click on the "Connect Wallet" link in the upper right corner of the meta mask wallet.
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 **Start authoring and publishing**
 
-Find the Go Publish button on the SparkLink homepage, click it to enter the publish information interface.
+Find the  **Publish** button on the SparkLink homepage, click it to enter the publish information interface.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/GIF 2022-5-18 22-26-53.gif>)
 
 On the publishing information page, you need to fill in the relevant information and attributes of the work.
 
@@ -40,7 +40,7 @@ When the encrypted release is not selected, the content in the work can be viewe
 
 Upload a cover image. Only a single JPEG/JPG/PNG image is supported as the cover of the work.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 **Upload the work file itself, the content is not restricted in form**, you can create and share any inspiration and ideas you have, a picture, a song, a video or even a novel, etc., and support multiple files to upload and package as ZIP Format is uploaded, and the file will be uploaded to the IPFS decentralized distributed storage network for storage.
 

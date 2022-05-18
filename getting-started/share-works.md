@@ -6,7 +6,7 @@ Sharing methods can be divided into link sharing and poster sharing\
 \
 
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 Link sharing: After clicking the link to share, generate and copy the sharing link to the pasteboard, click on the link to enter and view your work information
 
