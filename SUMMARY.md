@@ -14,7 +14,7 @@
 * [Download](getting-started/download.md)
 * [Purchase NFT content](getting-started/purchase-nft-content.md)
 * [Definitions](getting-started/definitions/README.md)
-  * [Page 2](getting-started/definitions/page-2.md)
+  * [Publish page](getting-started/definitions/publish-page.md)
 
 ***
 

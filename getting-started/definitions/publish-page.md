@@ -1,4 +1,4 @@
-# Page 2
+# Publish page
 
 Name of Creation: The name of the work created, which can be displayed on the poster&#x20;
 
