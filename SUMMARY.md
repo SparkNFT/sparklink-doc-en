@@ -11,7 +11,7 @@
 * [Connect your crypto wallet](getting-started/connect-your-crypto-wallet.md)
 * [Publish works](getting-started/publish-works.md)
 * [Share works](getting-started/share-works.md)
-* [Download](getting-started/download.md)
+* [Mint＆Download](getting-started/download.md)
 * [Purchase NFT content](getting-started/purchase-nft-content.md)
 * [Definitions](getting-started/definitions/README.md)
   * [Publish page](getting-started/definitions/publish-page.md)
