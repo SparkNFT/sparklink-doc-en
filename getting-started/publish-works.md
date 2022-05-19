@@ -50,6 +50,8 @@ After filling in the information and uploading the cover of the work and uploadi
 
 When the upload of the file is completed, a prompt of the meta mask wallet will pop up, and the corresponding miner fee will be paid when the transaction is confirmed. Wait patiently for a while, after the transaction is packaged, you will be prompted that your work has been successfully published. You can view the details of the works in my collection.
 
+
+
 After publishing, click **View** to enter the NFT display interface to confirm the information.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/GIF 2022-5-19 16-55-36.gif>)
