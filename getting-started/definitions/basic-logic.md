@@ -17,7 +17,10 @@ T=Total revenue&#x20;
 
 (R)Set percentage of earnings in 10%&#x20;
 
-(N)Set Maximum number of shares in 2（if you set in 2 ）
+(N)Set Maximum number of shares in 2（if you set in 2 ）\
+
+
+![Total revenue ](<../../.gitbook/assets/image (4).png>)
 
 
 
