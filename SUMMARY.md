@@ -15,6 +15,7 @@
 * [Purchase NFT content](getting-started/purchase-nft-content.md)
 * [Definitions](getting-started/definitions/README.md)
   * [Publish page](getting-started/definitions/publish-page.md)
+  * [Basic logic](getting-started/definitions/basic-logic.md)
 
 ***
 
